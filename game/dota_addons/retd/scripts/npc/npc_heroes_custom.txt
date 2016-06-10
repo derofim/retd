@@ -1,0 +1,55 @@
+"DOTAHeroes"
+{
+// models/items/warlock/golem/doom_of_ithogoaki/doom_of_ithogoaki.vmdl
+// models/items/doom/baphomet_belt/baphomet_belt.vmdl
+// models/items/courier/faceless_rex/faceless_rex.vmdl
+// particles/econ/courier/courier_faceless_rex/cour_rex_flying_a.vpcf	
+// particles/econ/courier/courier_faceless_rex/cour_rex_flying_e.vpcf
+// particles/econ/courier/courier_faceless_rex/cour_rex_flying_g.vpcf
+// particles/econ/courier/courier_faceless_rex/cour_rex_flying_h.vpcf
+// particles/econ/courier/courier_faceless_rex/cour_rex_flying.vpcf
+	"npc_dota_hero_viper"
+	{
+		"override_hero"				"npc_dota_hero_viper"
+		"Model"						"models/items/courier/scuttling_scotty_penguin/scuttling_scotty_penguin.vmdl"
+		"ModelScale"				"2"
+
+		"StatusHealth"				"1000"
+	
+		"UnitLabel"					"builder"
+
+		"MovementSpeed"				"350"
+
+		"ProjectileModel"			"particles/units/heroes/hero_brewmaster/brewmaster_hurl_boulder.vpcf"
+	
+		"AbilityLayout"				"6"
+		"Ability1" 					"build_tower"
+		"Ability2" 					"build_melee"
+		"Ability3" 					"build_barrack"
+		"Ability4" 					"destroy"
+		"Ability5"					"repair"
+		"Ability6" 					"boss_form"
+		"Ability7"					""
+		"Ability8"					""
+		"Ability9"					""
+		"Ability10"					""
+	}
+	"npc_dota_hero_kunkka"
+	{
+		"override_hero"				"npc_dota_hero_kunkka"
+	
+		"UnitLabel"					"builder"
+	
+		"AbilityLayout"				"6"
+		"Ability1" 					"build_tower"
+		"Ability2" 					"destroy"
+		"Ability3" 					"repair"
+		"Ability4" 					"samplerts_empty4"
+		"Ability5"					"samplerts_empty5"
+		"Ability6" 					"samplerts_empty6"
+		"Ability7"					""
+		"Ability8"					""
+		"Ability9"					""
+		"Ability10"					""
+	}
+}

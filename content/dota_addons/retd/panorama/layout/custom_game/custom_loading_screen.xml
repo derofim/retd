@@ -1,0 +1,18 @@
+<root>
+  <styles>
+    <include src="file://{resources}/styles/custom_game/custom_loading_screen.css" />
+  </styles>
+  <Panel class="AddonLoadingRoot">
+    <Panel id="CustomBg" >
+      <Image class="Background" src="file://{images}/custom_game/loading_screen/gm_background.png" />
+      <Image class="ImageMain" src="file://{images}/custom_game/loading_screen/gm.png" />
+      <Image class="Smoke1" src="file://{images}/custom_game/loading_screen/gm_smoke.png" />
+      <Image class="Smoke2" src="file://{images}/custom_game/loading_screen/gm_smoke.png" />
+      <Image class="TitleBackground" src="file://{images}/custom_game/loading_screen/gm_flare.png" />
+    </Panel>
+
+    <Panel id="TitlePanel">
+      <Label id="AddonTitle" text="#addon_game_name" style="" />
+    </Panel>
+  </Panel>
+</root>

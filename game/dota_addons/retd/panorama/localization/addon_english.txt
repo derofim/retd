@@ -1,0 +1,50 @@
+"addon"
+{
+	"Language"		"English"
+	"Tokens"
+	{	
+		"addon_game_name"	"ReTD"
+	
+		// Error Messages
+		"error_invalid_build_position"			"You can't build there"
+		"error_not_enough_gold"					"Not Enough gold"
+		"error_not_enough_lumber"				"Not Enough lumber"
+		"error_not_enough_food"					"Not Enough food"
+		"error_not_enough_lifes"				"Not Enough lifes"
+		"error_not_wave_running"				"Wave not started!"
+		"error_full_health"						"Already on full health"
+		"error_queue_full"						"Queue is full"
+		"error_max_level"						"Max level!"
+		"error_cant_destroy_now"				"Cant destroy now!"
+		"wave"				                    "Wave"
+		"welcome"				                "Choose lane and build towers!<br/>You can use peasants and boss spawner."
+
+		"game_info_header_objective"			"Objective:"
+		"brief_description"					"Dont let enemy pass!"
+		"game_info_header_how_to_play"		"How To Play:"
+		"game_info_tips_header"				"Tips:"
+		"game_info_tip01"						"Build towers near enemy path."
+		"game_info_tip02"						"You can build walls and change enemy path."
+		"game_info_tip03"						"Dont forget to upgrade towers."
+		"game_info_tip04"						"Build different towers to kill more kinds of enemies."
+
+		"lifes"						"Lifes:"
+
+		"select_difficulty"	"SELECT DIFFICULTY"
+		"difficulty"		"Choose<br>Difficulty"
+		"difficulty0"		"Normal"
+		"difficulty1"		"Ascendant"
+		"difficulty2"		"Elder"
+		"difficulty3"		"Mythical"
+		"difficulty4"		"Legendary"
+	
+		"difficulty_text"	"Each additional level of difficulty will add more health to enemy"
+		"difficulty0_text"	"This is the Classic difficulty (x0.5)"
+		"difficulty1_text"	"An Advanced Challenge! (x1.0)"
+		"difficulty2_text"	"Don't try this without experience (x2.0)"
+		"difficulty3_text"	"Will add even more health to enemy! (x3.0)"
+		"difficulty4_text"	"The Ultimate Difficulty!<br>Only recommended for players with previous experience (x4.0)"
+
+		"vote_difficulty"	"VOTE DIFFICULTY"
+	}
+}

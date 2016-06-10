@@ -1,0 +1,27 @@
+<root>
+	<styles>
+		<include src="file://{resources}/styles/dotastyles.css" />
+		<include src="file://{resources}/styles/custom_game/game_info.css" />
+	</styles>
+	<scripts>
+		<include src="file://{resources}/scripts/info.js" />
+	</scripts>
+	<Panel class="GameInfo">
+		<Panel id="Title">
+			<Label id="TitleName" text="#addon_game_name" />
+		</Panel>
+		<Label id="StatHeader" class="Header" html="true" text="#lifes" />
+		<Label id="LifesRad" text="" />
+		<Label id="LifesDire" text="" />
+		<Label id="ObjectiveHeader" class="Header" html="true" text="#game_info_header_objective" />
+		<Label id="BriefDescription" text="#brief_description" />
+		<Image id="Image01" src="file://{images}/custom_game/game_info/image01.png" />
+		<Panel id="TipsRow" class="InfoRow">
+			<Label id="TipsHeader" class="Header" html="true" text="#game_info_tips_header" />
+			<Label id="TipText01" class="TipText" html="true" text="#game_info_tip01" />
+			<Label id="TipText02" class="TipText" html="true" text="#game_info_tip02" />
+			<Label id="TipText03" class="TipText" html="true" text="#game_info_tip03" />
+			<Label id="TipText04" class="TipText" html="true" text="#game_info_tip04" />
+		</Panel>
+	</Panel>
+</root>

@@ -1,0 +1,64 @@
+"dota_shops"
+{
+  "consumables"
+  {
+  }
+
+  "attributes"
+  {
+  }
+
+  "weapons_armor"
+  {
+  }
+
+  "misc"
+  {
+  }   
+
+  "basics"
+  {
+  }
+
+  "support"
+  {
+  }
+
+  "magics"
+  {
+  }
+
+  "defense"
+  {
+  }
+
+  "weapons"
+  {
+  }
+
+ // Level 4 - Orange / Orb / Artifacts
+  "artifacts"
+  {
+    
+  }
+
+  //Sideshop Start - Page 1
+  //--------------------------
+
+  "sideshop1"
+  {
+  }
+
+ //Sideshop Page 2
+
+  "sideshop2"
+  {
+  }
+
+ //Secret Shop Start
+ //--------------------------   
+
+  "secretshop"
+  {
+  }
+}

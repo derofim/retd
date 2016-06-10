@@ -1,0 +1,2 @@
+-- only settings here
+-- see tp.lua

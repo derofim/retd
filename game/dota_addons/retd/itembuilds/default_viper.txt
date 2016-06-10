@@ -1,0 +1,39 @@
+﻿itembuilds/default_viper.txt
+{
+  "author"    "DENISSISS"
+  "hero"      "npc_dota_hero_viper"
+  "Title"     "Recommended"
+  
+  "Items"
+  {   
+    "#DOTA_Item_Build_Starting_Items" 
+    { 
+      "item" "item_rapier"
+      "item" "item_blink"
+      "item" "item_vladmir"
+      "item" "item_ward_sentry"
+      "item" "item_ward_observer"
+      "item" "item_tpscroll"
+    } 
+    "#DOTA_Item_Build_Early_Game" 
+    { 
+      "item" "item_blink"
+      "item" "item_butterfly"
+      "item" "item_cheese"
+      "item" "item_dagon_5"
+      "item" "item_heart"
+      "item" "item_abyssal_blade"
+      "item" "item_travel_boots_2"
+      "item" "item_moon_shard"
+      "item" "item_vladmir"
+    } 
+    "#DOTA_Item_Build_Core_Items" 
+    { 
+      "item" "item_boots_retd"
+    } 
+    "#DOTA_Item_Build_Luxury" 
+    { 
+      "item" "item_rapier"
+    }
+  }
+}

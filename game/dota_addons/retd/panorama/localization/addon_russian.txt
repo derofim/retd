@@ -1,0 +1,50 @@
+"addon"
+{
+	"Language"		"English"
+	"Tokens"
+	{	
+		"addon_game_name"	"ReTD"
+	
+		// Error Messages
+		"error_invalid_build_position"			"Вы не можнете здесь строить!"
+		"error_not_enough_gold"					"Не хватает золота!"
+		"error_not_enough_lumber"				"Не хватает дерева!"
+		"error_not_enough_food"					"Не хватает еды!"
+		"error_not_enough_lifes"				"Не хватает жизней!"
+		"error_not_wave_running"				"Волна не началась!"
+		"error_full_health"						"Здоровье уже полное!"
+		"error_queue_full"						"Очередь полна"
+		"error_max_level"						"Максимальный уровень!"
+		"error_cant_destroy_now"				"Сейчас нельзя сломать!"
+		"wave"				                    "Волна"
+		"welcome"				                "Choose lane and build towers!<br/>You can use peasants and boss spawner."
+
+		"game_info_header_objective"			"Задание:"
+		"brief_description"					"Не дайте врагу проити!"
+		"game_info_header_how_to_play"		"Как играть:"
+		"game_info_tips_header"				"Советы:"
+		"game_info_tip01"						"Стройте башни рядом с путем противника."
+		"game_info_tip02"						"Вы можете строить стены и изменять путь противника."
+		"game_info_tip03"						"Не забудьте прокачать башни."
+		"game_info_tip04"						"Стройте разные типы башен чтобы убивать разных врагов."
+
+		"lifes"						"Жизней:"
+		
+		"select_difficulty"	"Выберите сложность"
+		"difficulty"		"Выберите<br>сложность"
+		"difficulty0"		"Легкая"
+		"difficulty1"		"Обычная"
+		"difficulty2"		"Тяжелая"
+		"difficulty3"		"Мифическая"
+		"difficulty4"		"Легендарная"
+	
+		"difficulty_text"	"Каждый уровень сложности добавляет здоровья крипам"
+		"difficulty0_text"	"Классическая сложность для новичков (x0.5)"
+		"difficulty1_text"	"Для более опытных игроков  (x1.0)"
+		"difficulty2_text"	"Героическая сложность (x2.0)"
+		"difficulty3_text"	"Добавит еще больше здоровья крипам! (x3.0)"
+		"difficulty4_text"	"Кошмарная сложность!<br>Только если вы прошли предыдущие! (x4.0)"
+
+		"vote_difficulty"	"VOTE DIFFICULTY"
+	}
+}

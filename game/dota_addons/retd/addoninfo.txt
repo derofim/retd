@@ -1,0 +1,34 @@
+"AddonInfo"
+{
+  "TeamCount" "2"
+  "maps"      "2builder 4protect redota 2players"
+  "IsPlayable"  "1"
+  "2builder"
+  {
+          "MaxPlayers"                    "2"
+  }
+  "redota"
+  {
+          "MaxPlayers"                    "6"
+  }
+  "2players"
+  {
+          "MaxPlayers"                    "2"
+  }
+  "retd"
+  {
+          "MaxPlayers"                    "6"
+  }
+  "4protect"
+  {
+          "MaxPlayers"                    "4"
+  }
+//  "desert_duo"
+//  {
+//          "MaxPlayers"                    "10"
+//  }
+//  "forest_solo"
+//  {
+//          "MaxPlayers"                    "10"
+//  }
+}
